@@ -17,5 +17,6 @@ Program, kullanıcının belirlediği uzunlukta rastgele şifre oluşturur. Olu�
 python password_generator.py
 ```
 
-##Geliştirici
+## Geliştirici
+
 Süleyman Yiğit Şahin
