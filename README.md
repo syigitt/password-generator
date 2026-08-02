@@ -19,4 +19,4 @@ python password_generator.py
 
 ## Geliştirici
 
-Süleyman Yiğit Şahin
+  Süleyman Yiğit Şahin
